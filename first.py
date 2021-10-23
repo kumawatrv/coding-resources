@@ -2,3 +2,6 @@
 
 print("hello world")
 
+#input function
+
+a=input("Enter Your Name")
